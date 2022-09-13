@@ -10,21 +10,23 @@ lighter purple (7E57C5)
 .member {
     display: flex;
     margin: 36px 0px;
+    align-items: center;
 }
 .member2 {
     display: flex;
     flex-flow: row-reverse;
     margin-bottom: 36px;
+    align-items: center;
 }
 .memberphoto {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     object-fit: cover;
     margin-right: 20px;
 }
 .memberphoto2 {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     object-fit: cover;
     margin-left: 20px;
 }

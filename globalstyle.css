@@ -142,11 +142,15 @@ p {
     border-radius: 18px;
     padding: 20px;
     max-width: 800px;
+    text-align: center;
     margin-top: 10%;
     border-style: solid;
     border-color: rgba(0,0,0,0);
     transition: all 0.2s ease-in;
     margin: 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
 }
 .linkcontainer:hover {
     /*
