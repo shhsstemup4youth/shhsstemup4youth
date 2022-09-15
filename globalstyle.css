@@ -61,9 +61,9 @@ footer {
 .title {
     text-align: center;
     color: white;
-    /*text-shadow: 0px 0px 10px grey;*/
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     font-size: 140;
-    font-weight: 900;
+    font-weight: 700;
     margin-bottom: 40px;
 }
 .subtitle {
@@ -82,18 +82,18 @@ footer {
 
 /*text styles*/
 h1 {
-    font-family: 'Roboto';
+    font-family: 'Exo 2';
     font-size: 50px;
     padding: 0;
     margin: 0;
     color: black;
 }
 h2 {
-    font-family: 'Roboto';
+    font-family: 'Exo 2';
     font-size: 40px;
 }
 p {
-    font-family: 'Tajawal', sans-serif;
+    font-family: 'Dosis', sans-serif;
     font-size: 30px;
     margin: 0;
     margin-top: 30px;
@@ -104,7 +104,7 @@ p {
     text-decoration: none;
     color: black;
     transition: 0.2s ease-out;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Exo 2', sans-serif;
 }
 .link:hover {
     color: #8acf42;
@@ -114,8 +114,8 @@ p {
 
 .link-button {
     text-decoration: none;
-    font-family: 'Lato', sans-serif;
-    font-weight: 100;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
     font-size: 30px;
     border-style: solid;
     border-width: 4px;
